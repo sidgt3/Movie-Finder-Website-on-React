@@ -1,0 +1,135 @@
+.nav_buttonTrue {
+  background-color: black;
+  color: whitesmoke;
+}
+.nav_buttonFalse {
+  background-color: white;
+  color: black;
+}
+
+.movieListsGrid_buttonTrue {
+  background-color: gray;
+}
+
+.movieListsGrid_buttonFalse {
+  background-color: whitesmoke;
+}
+.header {
+  padding: 10px;
+  margin-bottom: 1%;
+}
+.ForwardRef-root-1 {
+  border-radius: 50px !important;
+  width: 100%;
+}
+.MuiSwitch-thumb {
+  width: 13px !important;
+  height: 13px !important;
+}
+.logo_div,
+.searchbar_div,
+.switch {
+  float: left;
+  align-content: center;
+}
+.logo_div {
+  width: 10%;
+  padding: 2px;
+}
+.searchbar_div {
+  margin-right: 10%;
+  margin-left: 10%;
+}
+.logo {
+  align-items: center;
+  width: 40%;
+  height: auto;
+  float: left;
+}
+.switch {
+  width: 5%;
+  margin-right: 5%;
+  height: auto;
+}
+
+.text {
+  text-align: center;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  /* margin-left: 30%;
+  margin-right: auto; */
+}
+.movieLists {
+  margin-left: 5%;
+  margin-right: 5%;
+  color: whitesmoke;
+}
+.movieListDiv {
+  background-color: black;
+  margin-left: 5%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 5%;
+  padding-bottom: 2%;
+}
+card1 {
+  background-color: rgba(0, 0, 0, 0.432);
+  color: whitesmoke;
+  border-radius: 10px;
+}
+
+.movieTitle {
+  text-align: left;
+  padding-left: 3%;
+}
+.MuiGrid-container {
+  display: inline-block !important;
+}
+.MuiGrid-item {
+  display: inline-block !important;
+  /* margin: 0; */
+  /* box-sizing: border-box; */
+}
+.image-list {
+  /* margin-right: auto; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.mainBlock {
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 5%;
+  background-color: black;
+  display: flex;
+  margin-top: 5%;
+  align-content: center;
+}
+.poster {
+  display: inline-block;
+  width: 30%;
+}
+.image-list1 {
+  padding: 10px;
+}
+.details {
+  display: inline-block;
+  width: 60%;
+  margin-left: 10%;
+}
+.viewSimilarDiv {
+  align-content: center;
+  margin-left: 40%;
+  padding-bottom: 6%;
+}
+.viewSimilar {
+  width: 25%;
+  height: 80px;
+  background-color: rgb(0, 0, 0);
+  color: whitesmoke;
+  border-radius: 15px;
+
+  font-size: large;
+}
